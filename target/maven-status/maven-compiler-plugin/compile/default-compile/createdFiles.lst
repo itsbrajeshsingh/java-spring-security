@@ -1,0 +1,6 @@
+com\bks\spring\demo\config\SecurityWebApplicationInitilizer.class
+com\bks\spring\demo\controller\DemoController.class
+com\bks\spring\demo\config\DemoSecurityConfig.class
+com\bks\spring\demo\config\MySpringMvcDispatcherServletInitilizer.class
+com\bks\spring\demo\controller\LoginController.class
+com\bks\spring\demo\config\DemoAppConfig.class
